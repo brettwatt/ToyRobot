@@ -1,0 +1,21 @@
+{
+  "profiles": {
+    "ToyRobot": {
+      "commandName": "Project",
+      "commandLineArgs": "TestScenarioB.txt"
+
+      /*
+      TestInvalidPlacements.txt
+      TestLoadExceptionA.txt
+      TestLoadExceptionB.txt
+      TestRotate.txt
+      TestScenarioA.txt
+      TestScenarioB.txt
+      TestScenarioC.txt
+      TestBottomRight.txt
+      TestTopLeft.txt
+      TestTopRight.txt
+      */
+    }
+  }
+}
