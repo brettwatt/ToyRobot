@@ -35,7 +35,7 @@ There are a number of test files included to test various scenarios.<br/>
 	This tests example C from **Example Input and Output**.
 
 - TestRotate.txt
-	This is a full rotation going both left and right.
+	This tests a full rotation going both left and right.
 
 - TestTopLeft.txt
 	Starting at the Top/Left of the board this tests various move scenarios attempting to move off the board.
@@ -43,7 +43,7 @@ There are a number of test files included to test various scenarios.<br/>
 - TestTopRight.txt
 	Starting at the Top/Right of the board this tests various move scenarios attempting to move off the board.
 
-- TestBottomRigh.txt
+- TestBottomRight.txt
 	Starting at the Bottom/Right of the board tests various move scenarios attempting to move off the board.
 
 - TestLoadExceptionA.txt
